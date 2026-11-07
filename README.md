@@ -182,10 +182,10 @@ A simple demonstration of input handling, conditional logic, and iteration.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/pandeyayushk/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Learn-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Practice-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/pandeyayushkuma1))
+[![CodeForces](https://img.shields.io/badge/CodeChef-Practice-312E81?style=for-the-badge&logo=codechef&logoColor=white)]([https://www.codechef.com/](https://codeforces.com/profile/pandeyayushk))
 
 <sub>Platform links are generic until personal profile URLs are confirmed.</sub>
 
