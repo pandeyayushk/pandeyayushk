@@ -1,14 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:312e81&height=210&section=header&text=Ayush%20Kumar%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Systems&descAlignY=59&descSize=17" alt="Ayush Kumar Pandey header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:312e81&height=210&section=header&text=Ayush%20Kumar%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=59&descSize=16" alt="Ayush Kumar Pandey header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;Building+Software+From+First+Principles;Java+%7C+Full-Stack+%7C+Backend+Engineering;Learning%2C+Building%2C+Improving" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+SRMIST+KTR;Software+Engineering+Undergraduate;Building+Backend+%26+Full-Stack+Projects;Learning+by+Building+%7C+Java+%7C+Web+Development" alt="Typing SVG" /></a>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-4338CA?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-7C3AED?style=flat-square)
+![Degree](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Software%20Engineering-6D28D9?style=flat-square)
+![University](https://img.shields.io/badge/SRMIST-KTR-4338CA?style=flat-square)
+![Graduation](https://img.shields.io/badge/Graduation-2029-7C3AED?style=flat-square)
+![Location](https://img.shields.io/badge/Location-India-312E81?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandeyayushk?tab=repositories)
+[![GitRoast Live](https://img.shields.io/badge/GitRoast-Live%20Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://gitroast-omega.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-pandey-387442369/)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyayushkumar1232007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandeyayushk)
@@ -23,13 +24,13 @@
 
 ## About Me
 
-I'm **Ayush Kumar Pandey**, a **B.Tech Computer Science student** focused on developing strong software engineering fundamentals through hands-on projects.
+I'm **Ayush Kumar Pandey**, a **B.Tech Computer Science and Engineering undergraduate specializing in Software Engineering at SRM Institute of Science and Technology (Kattankulathur)**, expected to graduate in **2029**.
 
-My interests span **backend systems, full-stack web development, data structures and algorithms, and practical AI/ML applications**. I enjoy understanding how software works beneath the interface: API boundaries, data modeling, concurrency, testing, and maintainable architecture.
+I'm developing my software engineering skills through hands-on projects, with interests in **backend engineering, full-stack development, distributed systems, and practical AI/ML applications**. I enjoy understanding how systems work beyond the interface: API boundaries, data modeling, concurrency, testing, and maintainable architecture.
 
-I approach projects as opportunities to learn engineering trade-offs rather than simply assemble a tech stack. My longer-term goal is to design and build reliable software products that solve real problems.
+I approach projects as a way to learn engineering trade-offs and build stronger fundamentals—not simply to assemble a list of technologies.
 
-**Open to:** learning collaborations, open-source contributions, software engineering internships, and meaningful project discussions.
+**Open to:** software engineering internships, open-source collaboration, learning with other developers, and meaningful project discussions.
 
 ---
 
@@ -51,96 +52,75 @@ I approach projects as opportunities to learn engineering trade-offs rather than
 
 [![Tooling](https://skillicons.dev/icons?i=git,github,vercel,maven,vscode,postman&theme=dark)](https://skillicons.dev)
 
-<sub>Technologies shown include tools used in projects and technologies currently being learned; they are not claims of expert proficiency.</sub>
+<sub>This stack reflects technologies used across projects and ongoing learning; the icons are not claims of expert-level proficiency.</sub>
 
 ---
 
 ## AI / ML Exploration
 
-| Domain | Current Level | Details |
+| Domain | Experience | Details |
 |:--|:--|:--|
-| Computer Vision | Project experience | Exploring image classification through a waste-classification project |
-| LLM Integration | Project experience | Working with model APIs for developer-focused applications |
-| Data Analysis | Learning / applied | Building deterministic metrics and structured analysis pipelines |
-| Model Evaluation | Learning | Interested in reliability, failure handling, and measurable output quality |
+| Computer Vision | Project exploration | Worked on a waste-classification project exploring image classification. |
+| AI-assisted applications | Project experience | GitRoast explores AI-generated developer-focused output using GitHub profile data. |
+| Data-driven analysis | Applied fundamentals | Interested in extracting structured metrics and generating explainable analysis. |
 
 ---
 
 ## Featured Projects
 
 <details open>
+<summary><b>JobStream — Distributed Job Queue</b></summary>
+<br>
+
+A Java-based distributed job queue project built around Redis, focused on understanding the core mechanics behind producer-worker systems.
+
+| Dimension | Details |
+|:--|:--|
+| Stack | Java, Maven, Redis |
+| Scale | Personal engineering project; distributed queue concepts |
+| Performance | No verified benchmark published |
+| Security | No production security claim made |
+| Impact | Explores job persistence, worker execution, retries, and queue coordination |
+| Repository | [pandeyayushk/JobStream](https://github.com/pandeyayushk/JobStream) |
+
+The project is intended to develop a practical understanding of job processing, worker lifecycle management, retries, and the design decisions involved in reliable background execution.
+
+</details>
+
+<details>
+<summary><b>GitRoast — GitHub Developer Profile Analyzer</b></summary>
+<br>
+
+A developer-focused web application that analyzes GitHub profile and repository data and turns the results into an entertaining developer roast.
+
+| Dimension | Details |
+|:--|:--|
+| Stack | Next.js, TypeScript, Tailwind CSS, GitHub API, AI model integration |
+| Scale | Deployed web application |
+| Performance | No verified benchmark published |
+| Security | Secrets and API access should be configured through deployment environment variables |
+| Impact | Makes GitHub profile analysis more engaging and shareable |
+| Live Demo | [gitroast-omega.vercel.app](https://gitroast-omega.vercel.app/) |
+| Repository | [GitHub profile](https://github.com/pandeyayushk) — project repository link not separately supplied |
+
+The engineering work includes GitHub data retrieval, normalization into a stable domain model, deterministic profile analysis, and an API boundary that separates data fetching from analysis.
+
+</details>
+
+<details>
 <summary><b>Waste Classification — Computer Vision</b></summary>
 <br>
 
-A Python-based computer vision project exploring automated waste classification.
+A computer-vision project exploring image-based waste classification.
 
 | Dimension | Details |
 |:--|:--|
-| Stack | Python, computer vision |
-| Scale | Learning / project-scale implementation |
-| Performance | No public benchmark claimed |
-| Security | Review repository for deployment-specific controls |
+| Stack | Python, computer vision / machine learning |
+| Scale | Academic or personal project |
+| Performance | No verified benchmark published |
+| Security | Not presented as a production service |
 | Impact | Explores a practical application of image classification |
-| Repository | [waste-classification-cv](https://github.com/pandeyayushk/waste-classification-cv) |
-
-This project reflects my interest in applying machine learning to concrete problems, while building an understanding of the limitations of model-driven systems.
-
-</details>
-
-<details>
-<summary><b>Banking System — C</b></summary>
-<br>
-
-A programming project focused on implementing banking-system concepts using C.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | C |
-| Scale | Educational project |
-| Performance | No benchmark claimed |
-| Security | Not presented as production banking software |
-| Impact | Practice with structured programming and application logic |
-| Repository | [Banking-System](https://github.com/pandeyayushk/Banking-System) |
-
-An exercise in translating real-world workflows into program logic and maintainable code.
-
-</details>
-
-<details>
-<summary><b>Guessing Game via OOP — Java</b></summary>
-<br>
-
-A Java project for practicing object-oriented programming through a small interactive game.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | Java |
-| Scale | Small educational application |
-| Performance | Not benchmarked |
-| Security | No sensitive-data workflow |
-| Impact | Reinforces object-oriented design and problem-solving |
-| Repository | [Guessing-Game-via-OOP](https://github.com/pandeyayushk/Guessing-Game-via-OOP) |
-
-A fundamentals-first project emphasizing code organization and object-oriented thinking.
-
-</details>
-
-<details>
-<summary><b>The Guessing Game — Python</b></summary>
-<br>
-
-A number-guessing game where the program selects a number from 1 to 100 and gives higher/lower hints.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | Python |
-| Scale | Small interactive program |
-| Performance | Not benchmarked |
-| Security | No sensitive-data workflow |
-| Impact | Practice with control flow and user interaction |
-| Repository | [The-Guessing-Game](https://github.com/pandeyayushk/The-Guessing-Game) |
-
-A simple demonstration of input handling, conditional logic, and iteration.
+| Repository | Repository URL not supplied |
 
 </details>
 
@@ -155,7 +135,7 @@ A simple demonstration of input handling, conditional logic, and iteration.
 - Explore backend APIs, full-stack workflows, and data-driven applications.
 - Study Java data structures and algorithms to strengthen problem-solving fundamentals.
 
-`Java` `Python` `TypeScript` `Git` `Software Engineering`
+`Java` `TypeScript` `JavaScript` `Python` `Git` `Software Engineering`
 
 ---
 
@@ -165,8 +145,8 @@ A simple demonstration of input handling, conditional logic, and iteration.
 
 | Recognition | Details |
 |:--|:--|
-| GitHub Project Portfolio | Public projects spanning C, Java, Python, and other technologies |
-| Hands-on Engineering | Building practical applications while developing core fundamentals |
+| Project Development | Building and documenting software projects across backend, full-stack, and computer-vision domains. |
+| Engineering Practice | Exploring system design concepts through hands-on implementation, including a Redis-backed job queue. |
 
 </div>
 
@@ -174,7 +154,7 @@ A simple demonstration of input handling, conditional logic, and iteration.
 
 ## Certifications
 
-**Verified certifications have not been listed.** This section is reserved for credentials with publicly verifiable issuer links.
+No certifications have been supplied for verification yet. This section can be updated as credentials are earned.
 
 ---
 
@@ -182,12 +162,9 @@ A simple demonstration of input handling, conditional logic, and iteration.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/pandeyayushk/))
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Learn-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/pandeyayushkuma1))
-[![CodeForces](https://img.shields.io/badge/CodeChef-Practice-312E81?style=for-the-badge&logo=codechef&logoColor=white)]([https://www.codechef.com/](https://codeforces.com/profile/pandeyayushk))
-
-<sub>Platform links are generic until personal profile URLs are confirmed.</sub>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pandeyayushk/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-4338CA?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeyayushk)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pandeyayushkuma1)
 
 </div>
 
@@ -230,7 +207,7 @@ A simple demonstration of input handling, conditional logic, and iteration.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pandeyayushk/pandeyayushk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake (requires GitHub Actions workflow)" />
+<img src="https://raw.githubusercontent.com/pandeyayushk/pandeyayushk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -244,8 +221,8 @@ learning:
   - Full-Stack Development
   - Backend and Software Engineering Fundamentals
 building:
-  - Practical applications and portfolio projects
-  - Better testing and maintainable architectures
+  - JobStream: Redis-backed distributed job queue
+  - GitRoast: GitHub profile analysis application
 exploring:
   - Distributed systems
   - Applied AI and computer vision
@@ -262,9 +239,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyayushkumar1232007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-pandey-387442369/)
 [![GitHub](https://img.shields.io/badge/GitHub-pandeyayushk-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandeyayushk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/pandeyayushk?tab=repositories)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pandeyayushk-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pandeyayushk/)
 
 </div>
 
